@@ -150,18 +150,6 @@ evaluation always uses the same setting as training.
 - The IndicTransToolkit and `indic-nlp-library` versions affect the pre-processing, so note them if you want exact reproduction.
 - Run names are tied to their tokenizer. Changing `--indic-mode` with an existing run name rebuilds the data and overwrites that run's tokenizer.
 
-## Citation
-
-If you use this code, please cite our system description paper:
-
-```bibtex
-@inproceedings{emaindmt2026coild,
-  title     = {TODO: final paper title},
-  author    = {TODO: authors},
-  booktitle = {Proceedings of ICON 2026: COILD-INDIC-MT Shared Task},
-  year      = {2026}
-}
-```
 
 ## License
 
