@@ -67,19 +67,3 @@ The shared-task data is not included. Download it from the task page
 (<https://coildsharedtask.github.io/home/>) and follow the data instructions in
 each folder's README.
 
-## Citation
-
-If you use this code, please cite our system description paper:
-
-```bibtex
-@inproceedings{emaindmt2026coild,
-  title     = {TODO: final paper title},
-  author    = {TODO: authors},
-  booktitle = {Proceedings of ICON 2026: COILD-INDIC-MT Shared Task},
-  year      = {2026}
-}
-```
-
-## License
-
-TODO: add a license (for example MIT) before making the repository public.
