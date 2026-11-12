@@ -193,19 +193,4 @@ bases, so the comparison is not a controlled ablation of the experts alone.
 - The IndicTransToolkit version affects the pre-processing, so note it if you want exact reproduction.
 - Data, tokenizer and cache folders are named after the text processing (`asm-brx+ben-odi.indictrans`), so a dense and an MoE run on the same text share one processed set.
 
-## Citation
 
-If you use this code, please cite our system description paper:
-
-```bibtex
-@inproceedings{emaindmt2026coild,
-  title     = {TODO: final paper title},
-  author    = {TODO: authors},
-  booktitle = {Proceedings of ICON 2026: COILD-INDIC-MT Shared Task},
-  year      = {2026}
-}
-```
-
-## License
-
-TODO: add a license (for example MIT) before making the repository public.
