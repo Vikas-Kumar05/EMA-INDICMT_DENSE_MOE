@@ -153,4 +153,3 @@ evaluation always uses the same setting as training.
 
 ## License
 
-TODO: add a license (for example MIT) before making the repository public.
